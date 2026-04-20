@@ -20,3 +20,6 @@ import sys
 import time
 import requests
 import pydeck as pdk
+
+
+Short Video can be viewed here https://youtu.be/3Pnn0OiOGjQ
