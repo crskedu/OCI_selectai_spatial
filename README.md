@@ -1,7 +1,8 @@
 # OCI_selectai_spatial
 Application built to demonstrate Oracle Document Understanding + Select AI + Spatial using Python, Streamlit
 
-Prerequisite
+Prerequisite:
+
 P1:    Install and Configure OCI Command Line Interface (CLI)
   Ref: https://docs.oracle.com/en-us/iaas/Content/API/SDKDocs/cliinstall.htm#configfile
   
