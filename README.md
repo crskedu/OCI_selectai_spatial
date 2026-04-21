@@ -4,12 +4,13 @@ Application built to demonstrate Oracle Document Understanding + Select AI + Spa
 Prerequisite
 P1:    Install and Configure OCI Command Line Interface (CLI)
   Ref: https://docs.oracle.com/en-us/iaas/Content/API/SDKDocs/cliinstall.htm#configfile
+  
   Ref: https://docs.oracle.com/en/cloud/paas/autonomous-database/serverless/adbsb/dbms-cloud-subprograms.html#GUID-742FC365-AA09-48A8-922C-1987795CF36A
 
 P2: Create Profiles
   Ref: https://docs.oracle.com/en-us/iaas/autonomous-database-serverless/doc/dbms-cloud-ai-package.html  
 
-P3 Python Modules required
+P3: Python Modules required
 
 import os
 import streamlit as st
