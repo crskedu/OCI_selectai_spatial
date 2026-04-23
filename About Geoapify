@@ -2,8 +2,8 @@ Geoapify Geocoding API is a REST-based service that converts human-readable addr
 
 You can use it in your workflow to:
 
-Convert extracted address data into coordinates
-Enrich locations with nearby amenities (PoIs)
-Enable spatial visualization in applications like Streamlit
+- Convert extracted address data into coordinates
+- Enrich locations with nearby amenities (PoIs)
+- Enable spatial visualization in applications like Streamlit
 
-https://www.geoapify.com/geocoding-api/
+Ref: https://www.geoapify.com/geocoding-api/
